@@ -1,15 +1,15 @@
 export default {
   translation: {
     'iRacing Week Planner': 'iRacing Week Planner',
-    'Purchase guide': 'Purchase guide',
-    'Set my tracks': 'Set my tracks',
+    'Aankoopgids': 'Aankoopgids',
+    'Selecteer mijn Circuits': 'Selecteer mijn Circuits',
     'Set my cars': 'Set my cars',
     'Set favorite series': 'Set favorite series',
-    'Options': 'Options',
-    'About': 'About',
+    'Opties': 'Opties',
+    'Over': 'Over',
     'Week {{week}}': 'Week {{week}}',
     'Races for date: {{date, YYYY MMM DD}}': 'Races for date: {{date, YYYY MMM DD}}',
-    'No time data': 'No time data',
+    'Geen tijdstip informatie': 'Geen tijdstip informatie',
 
     // Filters
     'Filters': 'Filters',
@@ -18,14 +18,14 @@ export default {
     'Dirt': 'Dirt',
     'Road': 'Road',
     'RX': 'RX', // Rally Cross/Road Dirt
-    'Licence': 'Licence',
+    'Licentie': 'Licentie',
     'Official/Fixed': 'Official/Fixed',
     'Unofficial': 'Unofficial',
     'Official': 'Official',
     'Open setup': 'Open setup',
-    'Fixed setup': 'Fixed setup',
+    'Vaste setup': 'Vaste setup',
     'Content': 'Content',
-    'Owned cars only': 'Owned cars only',
+    'Alleen eigen autos': 'Alleen eigen autos',
     'Owned tracks only': 'Owned tracks only',
     'Favorite series only': 'Favorite series only',
     'Favorite cars only': 'Favorite cars only',
